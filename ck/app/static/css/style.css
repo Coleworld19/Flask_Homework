@@ -1,0 +1,14 @@
+.banner{
+    background-image: linear-gradient(to right bottom, rgba(30,115,172,0.7), rgba(142,57,153, 0.6)),url(http://www.clker.com/cliparts/F/b/r/S/Z/V/fun-telephone-hi.png);
+    background-size: cover;
+    height: 80vh;
+}
+
+.header-text{
+    display: flex;
+    justify-content: center;
+    padding-top: 20%;
+    left: 20rem;
+    top: 10rem;
+    color: white;
+}
